@@ -1,0 +1,29 @@
+,
+            {
+              title: "中间件",
+              path: '/handbook/中间件/',
+              collapsable: false, // 不折叠
+              children: [
+                { title: "MySQL20231106", path: "/handbook/中间件/MySQL20231106" },
+                { title: "Nacos", path: "/handbook/中间件/Nacos" },
+                { title: "MySQL调优", path: "/handbook/中间件/MySQL调优" },
+                { title: "RabbitMQ", path: "/handbook/中间件/RabbitMQ" }
+              ],
+            },
+            {
+              title: "面试",
+              path: '/handbook/面试/',
+              collapsable: false, // 不折叠
+              children: [
+                { title: "面试", path: "/handbook/面试/面试" },
+                { title: "面试2.0", path: "/handbook/面试/面试2.0" }
+              ],
+            },
+            {
+              title: "电脑问题",
+              path: '/handbook/电脑问题/',
+              collapsable: false, // 不折叠
+              children: [
+                { title: "在Win11桌面右键直接创建md文件", path: "/handbook/电脑问题/在Win11桌面右键直接创建md文件" }
+              ],
+            }
