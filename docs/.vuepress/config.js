@@ -1,6 +1,6 @@
 module.exports = {
   title: '陈烨庆的博客',
-  description: 'TypeScript4 最新官方文档翻译',
+  description: '陈烨庆的博客',
 base: '/blog/',
 locales: {
     '/': {
