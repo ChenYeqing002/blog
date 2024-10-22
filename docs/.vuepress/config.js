@@ -60,7 +60,7 @@ subSidebar: 'auto',
               path: '/handbook/电脑问题/',
               collapsable: false, // 不折叠
               children: [
-                { title: "在Win11桌面右键直接创建md文件", path: "/handbook/电脑问题/在Win11桌面右键直接创建md文件" }
+                { title: "在Win11桌面右键直接创建md文件", path: "/handbook/电脑问题/在Win11桌面右键直接创建md文件" },                { title: "优化机器调整DPC", path: "/handbook/电脑问题/优化机器调整DPC" }
               ],
             }
 
