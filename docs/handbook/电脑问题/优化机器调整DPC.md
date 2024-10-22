@@ -18,12 +18,12 @@
 
 - 打开PowerSettingsExplorer
   
-  ```markdown```
-  - USB 设置
+  ```markdown
+  USB 设置
   USB 选择性暂停设置 禁用
   USB 3 Link Power Mangement off
   
-  - 处理器电源管理
+  处理器电源管理
   处理器性能提高阈值 1
   针对第 1 类处理器电源效率的处理器性能提升阈值 1
   处理器性能核心放置最小核心数量 100
@@ -32,13 +32,11 @@
   处理器闲置降级阈值 100
   处理器性能历史计数 1
   最小处理器状态 100
-  异类线程调度策略 英特尔：高性能处理器或首选高性能  AMD:所有处理器
+  异类线程调度策略 英特尔：高性能处理器或首选高性能 AMD:所有处理器
   处理器性能时间检查间隔 5000
   ```
 
     左下角点击Apply
-
-
 
 - Booster X
   
@@ -64,8 +62,6 @@
 
 ![](C:\Users\ChenYeqing\AppData\Roaming\marktext\images\2024-10-22-10-01-10-image.png)
 
-
-
 另一个如下位置
 
 `计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl`
@@ -74,13 +70,9 @@
 
 ![](C:\Users\ChenYeqing\AppData\Roaming\marktext\images\2024-10-22-10-02-40-image.png)
 
-
-
 - WiseCare
   
   系统清理和系统优化即可
-
-
 
 - Dism++
 
@@ -88,10 +80,4 @@
 
     服务优化   ![](C:\Users\ChenYeqing\AppData\Roaming\marktext\images\2024-10-22-09-56-04-image.png)
 
-
-
-
-
 至此已完成
-
-
